@@ -1,2 +1,3 @@
 # Sample
-This is my first Git Repository 
+This is my first Git Repository.
+Aurthor- Seikapmang Limbu
